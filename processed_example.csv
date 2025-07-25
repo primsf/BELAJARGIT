@@ -1,0 +1,8 @@
+Name,Age,City,Salary,Department,Age_Category
+Alice,25,New York,50000,IT,Middle
+Bob,30,London,60000,HR,Middle
+Charlie,35,Paris,70000,Finance,Senior
+Diana,28,Tokyo,55000,IT,Middle
+Eve,22,Sydney,48000,Marketing,Young
+Frank,45,Berlin,80000,Finance,Senior
+Grace,31,Toronto,65000,HR,Middle
